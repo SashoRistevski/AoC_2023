@@ -1005,7 +1005,7 @@ fourknflljrbrq63five
 
 
 $lines = explode("\n", $input);
-//var_dump($lines);
+
 $values = [];
 
 foreach ($lines as $line) {
